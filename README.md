@@ -1,3 +1,3 @@
 # VolunteerHours
 
-Kindly follow the instructions described in Module 10: Observable Objects, Environment Objects, and Navigation
+Kindly follow the instructions described in Class Activity 7.1: Observable Objects, Environment Objects, and Navigation
