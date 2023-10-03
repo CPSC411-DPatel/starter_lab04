@@ -2,7 +2,7 @@
 //  Modifiers.swift
 //  VolunteerHours
 //
-//  Created by Paul Inventado on 3/4/22.
+//  
 //
 
 import Foundation
