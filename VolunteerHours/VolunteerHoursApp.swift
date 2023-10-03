@@ -2,7 +2,7 @@
 //  VolunteerHoursApp.swift
 //  VolunteerHours
 //
-//  Created by Paul Inventado on 3/3/22.
+//  
 //
 
 import SwiftUI
