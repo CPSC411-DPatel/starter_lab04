@@ -2,7 +2,7 @@
 //  VolunteerHoursUITests.swift
 //  VolunteerHoursUITests
 //
-//  Created by Paul Inventado on 3/3/22.
+//  
 //
 
 import XCTest
